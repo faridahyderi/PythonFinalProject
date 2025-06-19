@@ -82,15 +82,19 @@ Bar Chart of Players
 Histogram of the Statistic
 Pie Chart of Teams
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/your-username/mlb-dashboard-project.git
+   git clone https://github.com/faridahyderi/PythonFinalProject.git
    cd mlb-dashboard-project
 
-2. Install dependencies:
-    pip install -r requirements.txt
+2. Install dependencies
+      pip install streamlit
+      pip install pandas
+      pip install matplotlib
+      pip install selenium
+      pip install -U webdriver-manager
 
 3. Run the scraper:
     python3 scrape/mlb_scraper.py
