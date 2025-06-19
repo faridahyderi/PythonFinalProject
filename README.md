@@ -87,7 +87,7 @@ Pie Chart of Teams
 1. **Clone this repo:**
    ```bash
    git clone https://github.com/faridahyderi/PythonFinalProject.git
-   cd mlb-dashboard-project
+   cd PythonFinalProject
 
 2. Install dependencies
       pip install streamlit
